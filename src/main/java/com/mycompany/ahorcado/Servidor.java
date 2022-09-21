@@ -228,8 +228,8 @@ class cadenasJuego{
             cadenasOriginalesNivel3[0]="Anita lava la tina"; cadenasIncompletasNivel3[0]="A__t_ l__a l_ t__a";
             cadenasOriginalesNivel3[1]="Al infinito y más allá"; cadenasIncompletasNivel3[1]="A_ i_f__it_ y _á_ a__á";
             cadenasOriginalesNivel3[2]="Yo soy tu padre"; cadenasIncompletasNivel3[2]="Y_ s__ t_ p_d_e";
-            cadenasOriginalesNivel3[3]="¡huelum! ¡huelum! ¡gloria!"; cadenasIncompletasNivel3[3]="¡h_él__! ¡_ué_u_! ¡g_o_i_!";
-            cadenasOriginalesNivel3[4]="¡Pero sigo siendo el rey!"; cadenasIncompletasNivel3[4]="¡P_r_ s_g_ s__nd_ _l r_y!";
+            cadenasOriginalesNivel3[3]="huelum huelum gloria"; cadenasIncompletasNivel3[3]="h_él__ _ué_u_ g_o_i_";
+            cadenasOriginalesNivel3[4]="Pero sigo siendo el rey"; cadenasIncompletasNivel3[4]="P_r_ s_g_ s__nd_ _l r_y";
             cadenasOriginalesNivel3[5]="Si no supiste amar, ahora te puedes marchar"; cadenasIncompletasNivel3[5]="Si n_ s_p_st_ a_ar, a_ora t_ p__de_ m_r_har";            //genero un número aleatorio, para elegir al azar una cadena en un nivel
            
             
